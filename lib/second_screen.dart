@@ -1,4 +1,3 @@
-import 'package:connect1/widgets/item1.dart';
 import 'package:connect1/widgets/item2.dart';
 import 'package:connect1/widgets/item3.dart';
 import 'package:connect1/widgets/line.dart';
